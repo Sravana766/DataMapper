@@ -1,6 +1,7 @@
 # Tagup Technical Challenge
 This is the solution to the Technical Callenge for the Data Engineer role at Tagup
-# Project Title
+
+# 
 
 ## Description
 The objective of the program is to import data from a SQL database and map it into arrays. The input used in the program is a time series data for all the machines utilized by the company ExampleCo, Inc. 
@@ -27,3 +28,7 @@ In order to run the program download the ExampleCo_DataPipeline.ipynb notebook a
 4. A Fourier Transform was used using the **Numpy** function *np.fft.fft()* to indetify any additional noise that may be part of the dataset.
 5. After identify high frequency noise present in the data, a moving mean filter was applied to smooth the function and remove the noise.
 6. The newly filtered data is stored into a 3D Numpy array that contains the *timestamp*, *machine*, and the *value* collected. 
+
+## Credits
+To write the program various tutorials and reference pages were used. Here is a list pages used to build the program:
+1. <a href="https://www.google.com/" target="_blank">Google</a>
