@@ -4,7 +4,7 @@ This is the solution to the Technical Callenge for the Data Engineer role at Tag
 # DataMapper
 
 ## Description
-The objective of the program is to import data from a SQL database and map it into arrays. This program was written in Python. The input used in the program is a time series data for all the machines utilized by the company ExampleCo, Inc. 
+DataMapper imports data from a SQL database and maps it into arrays. This program was written in Python. The input used in the program is a time series data for all the machines utilized by the company ExampleCo, Inc. 
 
 Features:
 * Imports data from a SQL database
