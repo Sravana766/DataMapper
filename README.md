@@ -31,4 +31,10 @@ In order to run the program download the ExampleCo_DataPipeline.ipynb notebook a
 
 ## Credits
 To write the program various tutorials and reference pages were used. Here is a list pages used to build the program:
-1. <a href="https://www.google.com/" target="_blank">Google</a>
+1. <a href="https://towardsdatascience.com/fast-fourier-transform-937926e591cb" target="_blank">Fourier Transform</a>
+2. <a href="https://towardsdatascience.com/moving-averages-in-python-16170e20f6c" target="_blank">Moving Averages</a>
+4. <a href="https://www.investopedia.com/terms/c/central_limit_theorem.asp" target="_blank">Central Limit Theorem</a>
+5. <a href="https://www.investopedia.com/terms/e/empirical-rule.asp" target="_blank">Empirical Rule</a>
+6. <a href="https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba" target="_blank">Removing Outliers</a>
+
+
