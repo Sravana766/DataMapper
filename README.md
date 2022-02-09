@@ -1,5 +1,3 @@
-# Tagup Technical Challenge
-This is the solution to the Technical Callenge for the Data Engineer role at Tagup
 
 # DataMapper
 
